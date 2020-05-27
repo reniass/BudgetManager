@@ -1,0 +1,16 @@
+income: $1000.0
+expenses: $262.0
+balance: $738.0
+
+Entertainment:
+ticket $50.0
+phone $150.0
+
+Clothes:
+shirt $10.0
+jeans $45.0
+
+Food:
+pizza $5.0
+hot-dog $2.0
+
